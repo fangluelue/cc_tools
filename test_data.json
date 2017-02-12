@@ -1,0 +1,32 @@
+{
+  "Game 1": {
+    "platform": [
+      {
+        "launch year": 1989,
+        "name": "Atari Lynx"
+      }
+    ],
+    "title": "Chip's Challenge",
+    "Year": 1989
+  },
+  "Game 2":{
+    "platform": [
+      {
+        "launch year": 2003,
+        "name": "Steam"
+      }
+    ],
+    "title": "Chip's Challenge 2",
+    "Year": 2015
+  },
+  "Game 3":{
+    "platform": [
+      {
+        "launch year": 2016,
+        "name": "Battlenet"
+      }
+    ],
+    "title": "Overwatch",
+    "Year": 2016
+  }
+}
